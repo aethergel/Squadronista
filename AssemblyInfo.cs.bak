@@ -1,0 +1,15 @@
+﻿using System.Reflection;
+using System.Runtime.Versioning;
+using System.Security.Permissions;
+
+[assembly: AssemblyCompany("Squadronista")]
+[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyFileVersion("7.0.0.0")]
+[assembly: AssemblyInformationalVersion("7.0+b1c1b881ac6008b9823c00320d66cff5efc9e308")]
+[assembly: AssemblyProduct("Squadronista")]
+[assembly: AssemblyTitle("Squadronista")]
+[assembly: AssemblyMetadata("RepositoryUrl", "https://git.carvel.li/liza/Squadronista.git")]
+[assembly: TargetPlatform("Windows7.0")]
+[assembly: SupportedOSPlatform("Windows7.0")]
+[assembly: AssemblyVersion("7.0.0.0")]
+[assembly: SecurityPermission(SecurityAction.RequestMinimum, SkipVerification = true)]

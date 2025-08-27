@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev</DalamudLibPath>
+  </PropertyGroup>
+</Project>

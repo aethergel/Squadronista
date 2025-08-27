@@ -1,0 +1,19 @@
+{
+  "Author": "Your Name",
+  "Name": "Squadronista",
+  "Punchline": "Squadron Mission Solver",
+  "Description": "Helps optimize squadron mission compositions",
+  "InternalName": "Squadronista",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "squadron",
+    "grand company",
+    "missions"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "RepoUrl": "https://github.com/yourusername/Squadronista",
+  "AssemblyVersion": "1.0.0.0",
+  "Changelog": "Initial release"
+}
